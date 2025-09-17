@@ -14,7 +14,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ligghtsaber&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ligghtsaber&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ligghtsaber&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
