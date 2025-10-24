@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Roshni!
 
-👩🏻‍🎓 Studying Computer Science at Galgotias University <br/>
+👩🏻‍🎓 Computer Science <br/>
 👩🏻‍💻 Currently learning **C++** and **Java** <br/>
 🌸 Open to collaborate <br/>
 💭 Currently working on UI/UX project<br/>
